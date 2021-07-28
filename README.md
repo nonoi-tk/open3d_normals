@@ -10,3 +10,7 @@ open3dには法線ベクトル推定というものがありますが、一体�
 ## 結果
 
 予想通り各点から伸びる法線ベクトルは円の傾きに対して垂直に伸びていることが確認できました。
+
+
+![法線ベクトル推定１](https://github.com/nonoi-tk/open3d_normals/blob/main/%E6%B3%95%E7%B7%9A%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E6%8E%A8%E5%AE%9A1.png)
+![法線ベクトル推定2](https://github.com/nonoi-tk/open3d_normals/blob/main/%E6%B3%95%E7%B7%9A%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E6%8E%A8%E5%AE%9A2.png)
